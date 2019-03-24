@@ -1,0 +1,32 @@
+{
+  "name": "try",
+  "version": "1.0.0",
+  "description": "\"Hora\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mrm.krtm.github.io"
+  },
+  "author": "mrmkrtm",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.0",
+    "kerberos": "0.0.24",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.19",
+    "nodemon": "^1.18.10",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "\"Hora",
+    "actual\""
+  ]
+}
